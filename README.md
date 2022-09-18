@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student @ University of Strathclyde
 ----------------------------------------------------
 
-I am currently in my third year of my BSc Hons Computer Science. I have worked with: Java, Python and a bit of React. Currently I am especially interested in computer vision and ai.
+I am currently in my third year of my BSc Hons Computer Science. I have worked with: Java, Python and a bit of React. Currently I am especially interested in computer vision and AI.
 
 *   🌍  I'm based in Glasgow
 *   ✉️  You can contact me at [salgefabian@gmail.com](mailto:salgefabian@gmail.com)

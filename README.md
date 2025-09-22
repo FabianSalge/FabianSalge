@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fabian Salge
 ====================================================================================================================================
 
-MSc Computer Science Student @ University of St Andrews
+Software Engineer
 ----------------------------------------------------
 
-I am currently working towards my MSc Computer Science at the University of St Andrews. I have graduated with a BSc Computer Science from the University of Strathclyde. I have worked with: Java, Python, React, FastAPI, Typescript, Java Spring, TailwindCSS and more. Currently I am especially interested in automation and distributed systems.
+I just finished my MSc Computer Science at the University of St Andrews and now work as a software engineer. I have graduated with a BSc Computer Science from the University of Strathclyde. I have worked with: Java, Python, React, FastAPI, Typescript, Java Spring, TailwindCSS and more. Currently I am especially interested in automation and distributed systems.
 
 *   🌍  I'm based in St Andrews
 *   ✉️  You can contact me at [salgefabian@gmail.com](mailto:salgefabian@gmail.com)

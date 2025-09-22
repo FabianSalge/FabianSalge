@@ -6,7 +6,7 @@ Software Engineer
 
 I just finished my MSc Computer Science at the University of St Andrews and now work as a software engineer. I have graduated with a BSc Computer Science from the University of Strathclyde. I have worked with: Java, Python, React, FastAPI, Typescript, Java Spring, TailwindCSS and more. Currently I am especially interested in automation and distributed systems.
 
-*   🌍  I'm based in St Andrews
+*   🌍  I'm based in Glasgow
 *   ✉️  You can contact me at [salgefabian@gmail.com](mailto:salgefabian@gmail.com)
 *   🧠  I'm learning Machine Learning
 

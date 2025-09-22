@@ -8,7 +8,7 @@ I just finished my MSc Computer Science at the University of St Andrews and now 
 
 *   🌍  I'm based in Glasgow
 *   ✉️  You can contact me at [salgefabian@gmail.com](mailto:salgefabian@gmail.com)
-*   🧠  I'm learning Machine Learning
+*   🧠  I'm learning Kubernetes
 
 ### Skills
 <p align="left">

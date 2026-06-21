@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ----------------------------------------------------
 
-I am a passionate software engineer with a MSc Computer Science from the University of St Andrews and a BSc (Honst) Computer Science from the University of Strathclyde. I have worked on different systems and codebases in domains ranging from computer vision for chemical analysis to production banking applications. The codebases I have worked on cover: Java, Ptyhon, React, FastAPI, Typescript, and more recently Go and Terraform. Other technologies I worked with are Kubernetes, AWS, vCluster and Jenkins.
+I am a passionate software engineer with a MSc Computer Science from the University of St Andrews and a BSc (Hons) Computer Science from the University of Strathclyde. I have worked on different systems and codebases in domains ranging from computer vision for chemical analysis to production banking applications. The codebases I have worked on cover: Java, Python, React, FastAPI, Typescript, and more recently Go and Terraform. Other technologies I worked with are Kubernetes, AWS, vCluster and Jenkins.
 
 Currently I am especially interested in effective scheduling of different types of workloads on heterogeneous clusters. To stay on-top of the latest AI developments, I frequently participate in competitive hackathons with top companies and stay closely connected with the London startup ecosystem. 
 
